@@ -17,7 +17,7 @@
 <a href="https://stackoverflow.com/users/20156462/denis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20156462/denis" height="30" width="40" /></a>
 <a href="https://orcid.org/0000-0002-4024-5382" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="0000-0002-4024-5382" height="30" width="40" /></a>
 <a href="https://scholar.google.es/citations?user=IGJiy3sAAAAJ&hl=es&oi=ao" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="citations?user=IGJiy3sAAAAJ&hl=es&oi=ao" height="30" width="40" /></a>
-<a href="https://www.researchgate.net/profile/Denis-Stefanescu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/480px-ResearchGate_icon_SVG.svg.png" alt="Denis-Stefanescu" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Denis-Stefanescu" target="blank"><img align="center" src="https://gbiomed.kuleuven.be/english/research/50000715/50000716/ungap/Pictures_and_Logos_UNGAP_website/social-media-logos/researchgate-logo/image" alt="Denis-Stefanescu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
