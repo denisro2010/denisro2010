@@ -5,15 +5,13 @@
 
 - 🌱 I’m currently learning **project management skills**
 
-- 👯 I’m looking to collaborate on **research projects on blockchain for Industry 4.0**
-
 - 💬 Ask me about **Blockchain, Cybersecurity, Industry 4.0, IOTA...**
 
 - ⚡ Fun fact **I love taking walks 🚶🏻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/denis-stef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis-stef" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/denis-stef" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis-stef" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20156462/denis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20156462/denis" height="30" width="40" /></a>
 <a href="https://orcid.org/0000-0002-4024-5382" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="0000-0002-4024-5382" height="30" width="40" /></a>
 <a href="https://scholar.google.es/citations?user=IGJiy3sAAAAJ&hl=es&oi=ao" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="citations?user=IGJiy3sAAAAJ&hl=es&oi=ao" height="30" width="40" /></a>
