@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Denis Stefanescu</h1>
-<h3 align="center"> <span>&#128308;</span> Cybersecurity Researcher from the Basque Country (Spain) <span>&#128994;</span> </h3>
+<h1 align="center">Hi 👋, I'm Denis</h1>
+<h3 align="center"> <span>&#128308;</span> Cybersecurity Researcher <span>&#128994;</span> </h3>
 
 - 🔭 I’m currently working on **my PhD thesis - A Holistic DLT Architecture for Industry 4.0**
 
