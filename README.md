@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **project management skills**
 
-- 💬 Ask me about **Blockchain, Cybersecurity, Industry 4.0, IOTA...**
-
-- ⚡ Fun fact **I love taking walks 🚶🏻**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/denis-stef" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis-stef" height="30" width="40" /></a>
