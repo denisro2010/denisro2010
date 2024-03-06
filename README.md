@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis</h1>
-<h3 align="center"> <span>&#128308;</span> PhD researcher and developer <span>&#128994;</span> </h3>
+<h3 align="center"> <span>&#128308;</span> Cybersecurity Researcher and Developer <span>&#128994;</span> </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
